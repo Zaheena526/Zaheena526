@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Zaheena Mohammed
 
-<!--
-**Zaheena526/Zaheena526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Computer Science | 📊 3+ Years of Data Analyst Experience  
+🔍 I turn data into actionable insights through storytelling, dashboards, and analytics.
 
-Here are some ideas to get you started:
+### 💼 Skills & Tools:
+- **Languages**: SQL, Python, R
+- **Tools**: Power BI, Tableau, Excel, Snowflake, AWS, DBT
+- **Specialties**: Data wrangling, forecasting, A/B testing, reporting automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let’s Connect!
+- Email: zaheena.mohammed25@gmail.com  
+- LinkedIn: [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/YOUR-LINK)
