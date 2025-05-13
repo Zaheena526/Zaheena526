@@ -10,4 +10,4 @@
 
 ### 📫 Let’s Connect!
 - Email: zaheena.mohammed25@gmail.com  
-- LinkedIn: [https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/YOUR-LINK)
+- LinkedIn: www.linkedin.com/in/zaheena-mohammed-a29bb0192
