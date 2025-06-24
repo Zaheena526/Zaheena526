@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zaheena Mohammed
 
-🎓 Master’s in Computer Science | 📊 3+ Years of Data Analyst Experience  
+🎓 Master’s in Data Science | 📊 3+ Years of Data Analyst Experience  
 🔍 I turn data into actionable insights through storytelling, dashboards, and analytics.
 
 ### 💼 Skills & Tools:
