@@ -9,5 +9,5 @@
 - **Specialties**: Data wrangling, forecasting, A/B testing, reporting automation
 
 ### 📫 Let’s Connect!
-- Email: zaheena.mohammed25@gmail.com  
+- Email: mohammedzaheena7@gmail.com
 - LinkedIn: www.linkedin.com/in/zaheena-mohammed-a29bb0192
